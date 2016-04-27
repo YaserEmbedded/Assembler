@@ -1,0 +1,5 @@
+.ORG 0x00
+LDI DDRB,R16     ;um a fuckin comment
+LDI PORTA,R15    ; hey again
+SPI DDRB,R20     ;ksjhfkdfskd
+CBI PORTC,90    ;ayy kalaaaam
